@@ -145,7 +145,7 @@ All of this provides a robust interface for remote control using an IR remote.
 
 ## Demonstration Videos
 
-You can find the demonstration video of the system in action in the main project repository under the name **"Video\_funcionamiento\_pr\_3"**.
+You can find the demonstration video of the system in action [here](https://drive.google.com/file/d/1fXZAsbdwlOKnoXx8CxnmcwCWob4lzNUK/view?usp=sharing).
 
 ---
 
