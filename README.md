@@ -6,7 +6,7 @@ Here is the English translation of the provided `README.md`:
 
 This project is an enhancement of the "Autonomous Marine Weather Station," which can be found at the following link.
 
-The project has been simulated using **WOKWI**. Here's the link to the simulation.
+The project has been simulated using **WOKWI**.
 
 ## Additional Hardware Required
 
